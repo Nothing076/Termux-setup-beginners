@@ -1,2 +1,6 @@
 # Termux-setup-beginners
-Copy and paste on your terminal and setup your terminal 
+pkg install
+pkg upgrade -y
+pkg install git
+pkg install python
+
